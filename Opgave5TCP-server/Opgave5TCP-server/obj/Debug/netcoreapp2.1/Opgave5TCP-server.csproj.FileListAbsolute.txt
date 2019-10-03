@@ -1,0 +1,14 @@
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\bin\Debug\netcoreapp2.1\Library.dll
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\obj\Debug\netcoreapp2.1\Opgave5TCP-server.csprojAssemblyReference.cache
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\obj\Debug\netcoreapp2.1\Opgave5TCP-server.csproj.CoreCompileInputs.cache
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\obj\Debug\netcoreapp2.1\Opgave5TCP-server.AssemblyInfoInputs.cache
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\obj\Debug\netcoreapp2.1\Opgave5TCP-server.AssemblyInfo.cs
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\bin\Debug\netcoreapp2.1\Opgave5TCP-server.deps.json
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\bin\Debug\netcoreapp2.1\Opgave5TCP-server.runtimeconfig.json
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\bin\Debug\netcoreapp2.1\Opgave5TCP-server.runtimeconfig.dev.json
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\bin\Debug\netcoreapp2.1\Opgave5TCP-server.dll
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\bin\Debug\netcoreapp2.1\Opgave5TCP-server.pdb
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\bin\Debug\netcoreapp2.1\Library.pdb
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\obj\Debug\netcoreapp2.1\Opgave5TCP-server.csproj.CopyComplete
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\obj\Debug\netcoreapp2.1\Opgave5TCP-server.dll
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Opgave5TCP-server\obj\Debug\netcoreapp2.1\Opgave5TCP-server.pdb

@@ -1,0 +1,8 @@
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Library\bin\Debug\netcoreapp2.1\Library.deps.json
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Library\bin\Debug\netcoreapp2.1\Library.dll
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Library\bin\Debug\netcoreapp2.1\Library.pdb
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Library\obj\Debug\netcoreapp2.1\Library.csproj.CoreCompileInputs.cache
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfoInputs.cache
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfo.cs
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Library\obj\Debug\netcoreapp2.1\Library.dll
+C:\3semesteroplopg1\Opgave5\Opgave5TCP-server\Library\obj\Debug\netcoreapp2.1\Library.pdb
