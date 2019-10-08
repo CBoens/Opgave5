@@ -96,7 +96,8 @@ namespace Opgave5TCP_server
             ss.WriteLine("'HentAlle' uden '' Viser alle bøgerne vi har.");
             ss.WriteLine("'Hent' uden '' efterfulgt af gyldigt ISBN. viser Bogen med det specifikke ISBN-Nummer");
             ss.WriteLine("'Gem' uden '' efterfulgt af En Bog i JSON-format Gemmer denne bog i listen");
-            ss.WriteLine("F.eks: {Titel\":\"PixieBog\"Forfatter:\"Klokkeblomst\",ISBN13:\"1234567890121\",\"Sidetal\":\"25\",\"Titel\":\"PixieBog\"}");
+            ss.WriteLine("F.eks: ("F.eks: {\"Titel\":\"PixieBog\"\"Forfatter:\"Klokkeblomst\",\"Sidetal\":\"25\",ISBN13:\"1234567890121\"}");
+            // {"Titel":""PixieBog","Forfatter":"Klokkeblomst","Sidetal":25,"ISBN13":"1234567890121"}
             ss.WriteLine("");
             ss.WriteLine("(Det kan være nødvendigt at sende en Blank linie fra sockettest før input virker)");
             ss.Flush();
